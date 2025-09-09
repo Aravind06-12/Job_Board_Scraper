@@ -1,10 +1,6 @@
 
 ---
-
 ## 📜 `job_scraper.py`
-
-Here’s your cleaned script, formatted for a GitHub repo:
-
 ```python
 from bs4 import BeautifulSoup
 import requests
