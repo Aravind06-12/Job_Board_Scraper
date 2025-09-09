@@ -1,13 +1,11 @@
-# 🧠 TimesJobs Job Scraper
-
+# 📝 Job Board Scraper
 A simple Python web scraper to extract job postings from [TimesJobs.com](https://www.timesjobs.com) using `requests`, `BeautifulSoup`, and `pandas`.
 
 ## 🚀 Features
-
-- Search jobs by keyword (e.g., "data analyst")
-- Scrapes job title, company, location, skills, and job link
-- Outputs to a clean CSV file
-- Works with Google Colab or any local Python environment
+- Scrapes job postings (title, company, location, skills, and link)
+- Saves data in CSV/Excel format
+- Console preview of top results
+- Can be extended to other job portals
 
 ## 📸 Sample Output
 
